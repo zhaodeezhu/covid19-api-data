@@ -115,34 +115,34 @@
   message: "成功",
  	data: [
     {
-			"id": 1445965,
-			"createTime": 1584761548000,
-			"modifyTime": 1584761548000,
-			"tags": "",
-			"countryType": 2,
-			"continents": "欧洲",
-			"provinceId": "10",
-			"provinceName": "意大利",
-			"provinceShortName": "",
-			"cityName": "",
-			"currentConfirmedCount": 37860,
-			"confirmedCount": 47021,
-			"suspectedCount": 0,
-			"curedCount": 5129,
-			"deadCount": 4032,
-			"comment": "",
-			"sort": 0,
-			"operator": "chend",
-			"locationId": 965008,
-			"countryShortCode": "ITA",
-			"countryFullName": "Italy",
+      "id": 1445965,
+      "createTime": 1584761548000,
+      "modifyTime": 1584761548000,
+      "tags": "",
+      "countryType": 2,
+      "continents": "欧洲",
+      "provinceId": "10",
+      "provinceName": "意大利",
+      "provinceShortName": "",
+      "cityName": "",
+      "currentConfirmedCount": 37860,
+      "confirmedCount": 47021,
+      "suspectedCount": 0,
+      "curedCount": 5129,
+      "deadCount": 4032,
+      "comment": "",
+      "sort": 0,
+      "operator": "chend",
+      "locationId": 965008,
+      "countryShortCode": "ITA",
+      "countryFullName": "Italy",
       "statisticsData": "https://file1.dxycdn.com/2020/0315/993/3402160517102843054-135.json",
-			"incrVo": {
-				"currentConfirmedIncr": 0,
-				"confirmedIncr": 0,
-				"curedIncr": 0,
-				"deadIncr": 0
-			}
+      "incrVo": {
+        "currentConfirmedIncr": 0,
+        "confirmedIncr": 0,
+        "curedIncr": 0,
+        "deadIncr": 0
+      }
     }
   ]
 }
@@ -157,16 +157,16 @@
 
 ```javascript
 {
-	"code": 200,
-	"data": {
-		"currentConfirmedCount": 6279,
-		"confirmedCount": 81416,
-		"suspectedCount": 0,
-		"curedCount": 71876,
-		"deadCount": 3261,
-		"dateTime": "2020-3-21 11:35:21"
-	},
-	"message": "成功了"
+  "code": 200,
+  "data": {
+    "currentConfirmedCount": 6279,
+    "confirmedCount": 81416,
+    "suspectedCount": 0,
+    "curedCount": 71876,
+    "deadCount": 3261,
+    "dateTime": "2020-3-21 11:35:21"
+   },
+  "message": "成功了"
 }
 ```
 
