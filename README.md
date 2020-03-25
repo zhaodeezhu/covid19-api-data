@@ -49,32 +49,32 @@
       provinceName: "湖北省"，
       // 省份简称
       provinceShortName: "湖北",
-  		// 现存确诊数量
-			currentConfirmedCount: 5719,
-  		// 总确诊数量
-  		confirmedCount: 67800,
-  		// 疑似病例
-  		suspectedCount: 0,
-  		// 治愈数量
-  		curedCount: 58942,
-  		// 死亡数量
-  		deadCount: 3139,
-  		// 区号
-  		locationId: 420000,
-  		// 城市汇总
-  		cities: [
-    		{
-     			// 城市名
-    			cityName: "武汉",
-      		currentConfirmedCount: 5610,
-      		confirmedCount: 222,
-      		suspectedCount: 0,
-      		curedCount: 41891,
-      		deadCount: 2504,
-      		locationId: 420100
-    		}
-  		]
-		}
+      // 现存确诊数量
+      currentConfirmedCount: 5719,
+      // 总确诊数量
+      confirmedCount: 67800,
+      // 疑似病例
+      suspectedCount: 0,
+      // 治愈数量
+      curedCount: 58942,
+      // 死亡数量
+      deadCount: 3139,
+      // 区号
+      locationId: 420000,
+      // 城市汇总
+      cities: [
+        {
+          // 城市名
+          cityName: "武汉",
+          currentConfirmedCount: 5610,
+          confirmedCount: 222,
+          suspectedCount: 0,
+          curedCount: 41891,
+          deadCount: 2504,
+          locationId: 420100
+         }
+       ]
+     }
   ]
 }
 ```
@@ -89,16 +89,16 @@
 
 ```javascript
 {
-	"code": 200,
-	"data": {
-		"currentConfirmedCount": 6279,
-		"confirmedCount": 81416,
-		"suspectedCount": 0,
-		"curedCount": 71876,
-		"deadCount": 3261,
-		"dateTime": "2020-3-21 11:35:21"
-	},
-	"message": "成功了"
+  "code": 200,
+  "data": {
+    "currentConfirmedCount": 6279,
+    "confirmedCount": 81416,
+    "suspectedCount": 0,
+    "curedCount": 71876,
+    "deadCount": 3261,
+    "dateTime": "2020-3-21 11:35:21"
+  },
+  "message": "成功了"
 }
 ```
 
